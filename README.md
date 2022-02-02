@@ -2,7 +2,7 @@
 
 ## App link:
 
-Access to the app at [Movies NS](http://34.231.244.53/) hosting with AWS using Elastic Container Registry, Elastic Container Registry, Elastic Container Service and Docker image.
+Access to the app at [Movies NS](http://34.231.244.53/) hosting with AWS using Elastic Container Registry, Elastic Container Service and Docker image.
 
 ## Table of Content:
 

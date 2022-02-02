@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moviensapp-dev-113745-authRole",
+      "UnauthRoleArn": "arn:aws:iam::482731264557:role/amplify-moviensapp-dev-113745-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::482731264557:role/amplify-moviensapp-dev-113745-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-moviensapp-dev-113745-deployment",
+      "UnauthRoleName": "amplify-moviensapp-dev-113745-unauthRole",
+      "StackName": "amplify-moviensapp-dev-113745",
+      "StackId": "arn:aws:cloudformation:us-east-1:482731264557:stack/amplify-moviensapp-dev-113745/04032220-8061-11ec-8365-0e4d3c075c39",
+      "AmplifyAppId": "d2h1oxklfzm24v"
+    },
+    "categories": {
+      "auth": {
+        "moviensapp9e936954": {}
+      }
+    }
+  }
+}
